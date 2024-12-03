@@ -1,4 +1,5 @@
 # HW1_prediction_price
+# ПРЕДПОЛОГАЮ,ЧТО ЭТО КОТИК САБРИНЫ
 # Отчет по выполненной работе
 
 ## 1. EDA (Exploratory Data Analysis)
