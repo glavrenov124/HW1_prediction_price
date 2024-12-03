@@ -28,3 +28,7 @@
 ## 4. Отчет по реализации сервиса
 <img width="1155" alt="Снимок экрана 2024-12-03 в 20 47 17" src="https://github.com/user-attachments/assets/d26288a5-abd9-45b9-9947-6a55e95709fa">
 
+<img width="1425" alt="Снимок экрана 2024-12-03 в 20 24 58" src="https://github.com/user-attachments/assets/74241837-c746-49e3-aef1-2e30189353be">
+
+<img width="1470" alt="Снимок экрана 2024-12-03 в 20 26 58" src="https://github.com/user-attachments/assets/3ed7ef9f-c7b0-42c3-a770-b9d2ae39f902">
+
